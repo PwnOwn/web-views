@@ -4,7 +4,7 @@ export const siteShortName = 'algorithm'
 export const siteDescription = 'algorithm is good idea.'
 
 /** 文档所在目录 */
-export const include = ['笔记', '生活']
+export const include = ['note', '生活']
 
 /** Repo */
 export const githubRepoLink = 'https://github.com/nolebase/nolebase'
