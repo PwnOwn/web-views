@@ -19,10 +19,10 @@ hero:
       link: /note/index
     - theme: alt
       text: 加入 Discord 服务器
-      link: https://discord.gg/XuNFDcDZGj
+      link: https://discord.gg/t9wu6z4z
     - theme: alt
       text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
+      link: https://github.com/PwnOwn/web-views
 
 
 # 主頁的框框
