@@ -6,7 +6,7 @@ title: algorithm
 titleTemplate: 记录回忆，知识和畅想的地方
 
 hero:
-  name: algorithm
+  name: g~Nj$3J2^
   text: algorithm 研究
   tagline: 本站分享我的algorithm 研究。
   image:
