@@ -27,7 +27,7 @@ export const creators: Creator[] = [
     desc: '算法研究',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/pwnown' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/vjett' },
+      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/vjett4' },
     ],
     nameAliases: ['nekomeowww', '绚香猫', '絢香猫', 'Neko Ayaka', 'Ayaka Neko'],
     emailAliases: ['neko@ayaka.moe'],
