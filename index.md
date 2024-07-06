@@ -8,10 +8,11 @@ titleTemplate: 记录回忆，知识和畅想的地方
 hero:
   name: g~Nj$3J2^
   text: algorithm 研究
-  tagline: 本站分享我的algorithm 研究。
+  tagline: 本站分享我的 algorithm 研究。
   image:
     src: /logo.svg
     alt: Vitest
+    # 主頁的按鈕
   actions:
     - theme: brand
       text: 开始阅读
@@ -23,6 +24,8 @@ hero:
       text: GitHub 上浏览
       link: https://github.com/nolebase/nolebase
 
+
+# 主頁的框框
 features:
   - title: 多样的主题和内容
     details: 本知识库和所生成的页面均由创作者们维护，涉及到生活中各方面知识和内容，也不乏我们的回忆和畅想。
