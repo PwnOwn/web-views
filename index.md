@@ -3,10 +3,10 @@ layout: home
 sidebar: false
 
 title: algorithm
-titleTemplate: 记录回忆，知识和畅想的地方
+titleTemplate: algorithm 研究
 
 hero:
-  name: g~Nj$3J2^
+  name: 
   text: algorithm 研究
   tagline: 本站分享我的 algorithm 研究。
   image:
