@@ -15,9 +15,10 @@ export interface Creator {
   nameAliases?: string[]
   emailAliases?: string[]
 }
-
+// github用戶圖片
 const getAvatarUrl = (name: string) => `https://github.com/${name}.png`
 
+// 名片數據
 export const creators: Creator[] = [
   {
     name: 'nick',

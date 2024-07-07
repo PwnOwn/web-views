@@ -1,5 +1,7 @@
 /** 文本 */
+// 名片上方名字
 export const siteName = 'algorithm'
+
 export const siteShortName = 'algorithm'
 export const siteDescription = 'algorithm is good idea.'
 
